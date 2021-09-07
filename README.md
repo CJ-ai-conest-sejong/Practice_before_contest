@@ -40,7 +40,7 @@ https://github.com/l-yohai/Boostcamp-AI-Tech/blob/main/pstage_1/planning_guide.m
 ## 사용 할 그룹들
 
 1. Discord : 음성으로 회의를 하거나, 간단한 논의를 할 때 사용할 수 있는 보이스 채팅 그룹입니다. 여기서 필요하다면 사람을 호출하셔도 좋습니다.
-=> URL : https://discord.gg/3hHUnpRC(9월 14일 이후에 만료됩니다.)
+=> URL : https://discord.gg/3hHUnpRC (9월 14일 이후에 만료됩니다.)
 
 2. Notion(고민) : 노션이 좋기는 하나, 굳이 github까지 있는데 노션을 사용할 필요가 있나 싶기도 합니다.
 =>이 부분은 논의가 필요합니다.
