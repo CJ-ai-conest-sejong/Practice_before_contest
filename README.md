@@ -2,6 +2,10 @@
 
 대회 전에 연습하는 단계입니다.
 
+https://github.com/l-yohai/Boostcamp-AI-Tech/blob/main/pstage_1/planning_guide.md 
+
+위 내용을 한번 읽어보고 오시면 더욱 좋습니다 :)
+
 몇가지 간단한 툴에 대한 설명들과
 
 이러한 부분들을 공부했으면 좋겠다는 것을 나누는 페이지입니다.
