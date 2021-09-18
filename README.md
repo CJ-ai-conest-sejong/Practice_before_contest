@@ -26,6 +26,9 @@ https://github.com/l-yohai/Boostcamp-AI-Tech/blob/main/pstage_1/planning_guide.m
 ## 머신러닝 복습용 => 추천 시스템 base 지식 쌓기 용도로 바꿉시다 💪💪💪💪💪
   
 다음주에 매일 매일 제가 읽어야할 추천 시스템 관련 정보들을 pdf로 보내 드릴거에요! 그걸 바탕으로 기본적인 base 지식을 쌓으시면 좋겠어요
+  
+<A href="https://github.com/CJ-ai-conest-sejong/Practice_before_contest/blob/main/recommendation_sys/1%EC%A3%BC%EC%B0%A8_%EC%B6%94%EC%B2%9C%EC%8B%9C%EC%8A%A4%ED%85%9C_%EA%B0%9C%EC%9A%94.PDF">1일차 pdf</A>
+  
 
 ## 사용 할 그룹들
 
